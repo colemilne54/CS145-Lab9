@@ -1,0 +1,31 @@
+#jennaBody {
+    background-color: #F4C2C2;
+}
+
+#coleBody {
+    background-color: #fcf2d7;
+}
+
+#homeBody {
+    background-color: #90EE90;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 600px;
+    padding-top: 50px;
+}
+
+p {
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    padding-top: 50px;
+    line-height: 30px;
+}
